@@ -1,0 +1,4 @@
+This project does the following :
+1. Data Exploration using SQL
+2. Charts Dashboard Using Excel
+3. Data Visualized through Tableau
